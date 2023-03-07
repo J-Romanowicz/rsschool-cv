@@ -8,7 +8,7 @@
 
 ## About me:
 
-I am 30 years old, I worked in different fields, but interest in them quickly faded away, since my school days I was interested in new technologies, their application in practice, I did various projects on arduino, I assembled a 3D printer and a cnc router. Recently I decided to change something in my life and in my free time I started learning programming web programming
+I am 30 years old, I worked in different fields, but interest in them quickly faded away, since my school days I was interested in new technologies, their application in practice, I did various projects on arduino, I assembled a 3D printer and a cnc router. Recently I decided to change something in my life and in my free time I started learning programming web programming.
 
 ## Skills:
 
@@ -34,3 +34,21 @@ let geometricSequenceElements = (a, r, n) => {
   return arr.join(', ');
 }
 ```
+
+## Education:
+
+- **Brest State Technical University**
+  - civil-engineer
+- **Warsaw Polytechnic University**
+
+  **Courses:**
+
+  - [HTML-Academy](https://htmlacademy.ru/profile/id2293281)
+  - YouTube JavaScript lessons
+
+## Languages:
+
+- Russian - native speaker;
+- Belorussian- native speaker;
+- Polish - C1;
+- English - A2(B1)
